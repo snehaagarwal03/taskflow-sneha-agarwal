@@ -323,11 +323,6 @@ taskflow-sneha/
 
 #### Step 1.4: Environment Variables
 
-**File: `frontend/.env.example`**
-```
-VITE_API_BASE_URL=http://localhost:4000
-```
-
 **File: `frontend/.env`** (gitignored, for local dev)
 ```
 VITE_API_BASE_URL=http://localhost:4000
